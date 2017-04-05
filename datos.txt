@@ -1,0 +1,5 @@
+manzana
+mandarina
+ciruela
+pera
+platano
