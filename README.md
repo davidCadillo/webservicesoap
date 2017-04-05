@@ -7,4 +7,5 @@ Ejemplos sencillos de conexion usando SOAP. Se muestran 3 tipos de ejemplos:
   que también se encuentra en esta cuenta. Se ha usado POO para la conexión a la base de datos y el patrón de diseño DAO.
 3. Conexión a un webservice SOAP externo
   Conexión a un [Webservice SOAP externo](http://www.webservicex.net/geoipservice.asmx?WSDL) que dada una IP muestra su procedencia geográfica. 
-
+  
+  Este proyecto ha sido realizado usando Composer como gestor de dependencias y una librería llamada nusoap.
